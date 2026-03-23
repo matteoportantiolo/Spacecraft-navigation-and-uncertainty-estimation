@@ -1,4 +1,4 @@
-# Satellite Navigation and Uncertainty Estimation
+# Spacecraft Navigation and Uncertainty Estimation
 
 ## Overview
 This project focuses on uncertainty propagation and state estimation techniques applied to astrodynamics problems, with applications to Earth-Moon transfers, Earth-orbiting satellites, and lunar navigation.
